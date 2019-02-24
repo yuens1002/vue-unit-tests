@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1550966235623" clover="3.2.0">
+  <project timestamp="1550966235623" name="All files">
+    <metrics statements="10" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="10" coveredelements="8" complexity="0" loc="10" ncloc="10" packages="4" files="4" classes="4">
+      <package name="components">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <file name="Parent.vue" path="/Users/sunny/vue-test-app/src/components/Parent.vue">
+          <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="11" count="1" type="stmt"/>
+          <line num="17" count="7" type="stmt"/>
+          <line num="25" count="2" type="stmt"/>
+          <line num="26" count="2" type="stmt"/>
+          <line num="29" count="1" type="stmt"/>
+        </file>
+      </package>
+      <package name="components.NewTodoForm">
+        <metrics statements="3" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <file name="NewTodoForm.vue" path="/Users/sunny/vue-test-app/src/components/NewTodoForm/NewTodoForm.vue">
+          <metrics statements="3" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="11" count="1" type="stmt"/>
+          <line num="17" count="0" type="stmt"/>
+          <line num="20" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="components.Todos">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <file name="Todos.vue" path="/Users/sunny/vue-test-app/src/components/Todos/Todos.vue">
+          <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="13" count="1" type="stmt"/>
+          <line num="19" count="3" type="stmt"/>
+        </file>
+      </package>
+      <package name="store">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <file name="state.js" path="/Users/sunny/vue-test-app/src/store/state.js">
+          <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        </file>
+      </package>
+    </metrics>
+  </project>
+</coverage>

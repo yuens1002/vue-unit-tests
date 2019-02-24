@@ -1,29 +1,12 @@
-# vue-test-app
+Wanted to give some credits to sites I used for the units tests I played with in this repo.
 
-## Project setup
-```
-npm install
-```
+[offical vue test utils guide] (https://vue-test-utils.vuejs.org/)
+[Series of Medium posts by Daniel Kuroski] (https://medium.com/magnetis-backstage/working-an-application-in-vue-js-with-tdd-an-extensive-guide-for-people-who-have-time-part-1-3be791dafa2b)
+[Vue testing handbook by Lachlan Miller] https://lmiller1990.github.io/vue-testing-handbook/#what-is-this-guide
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+I used vue cli 3 to bootstrap the sample project with these settings:
+vue-router, vuex, babel, pwa, eslint, unit-jest
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
 
 ### Run your unit tests
 ```

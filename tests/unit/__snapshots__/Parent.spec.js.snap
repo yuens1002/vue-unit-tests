@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Parent component mounts itself 1`] = `
+<div id="parent">
+  <div id="child" name="child-component">
+    <child-component-stub msg="hello"></child-component-stub>
+  </div>
+  <!---->
+  <div><button name="my-button">add one</button> 0</div>
+</div>
+`;
